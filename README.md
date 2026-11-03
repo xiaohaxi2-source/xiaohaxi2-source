@@ -1,10 +1,10 @@
 # 你好，我是王秀睿 👋
 
 <p align="center">
-  <a href="https://xiaohaxi2-source.github.io/"><img width="1000" src="./assets/profile-hero.png" alt="王秀睿的个人主页形象，点击访问个人网站" /></a>
+  <a href="https://xiaohaxi2-source.github.io/"><img width="1000" src="./assets/portfolio-launch.svg" alt="王秀睿的 AI 产品工作台：动态终端与人物动作，点击访问个人网站" /></a>
 </p>
 
-<p align="center"><sub>点击上方图片，打开我的个人网站</sub></p>
+<p align="center"><sub>点击上方工作台，打开我的个人网站</sub></p>
 
 <p align="center">
   🌐 <a href="https://xiaohaxi2-source.github.io/">个人网站</a> · 🧩 <a href="https://github.com/xiaohaxi2-source?tab=repositories">开源项目</a> · ✍️ <a href="./ARTICLES.md">全部文章</a> · 💬 <a href="https://xiaohaxi2-source.github.io/#contact">联系我</a>
